@@ -1,4 +1,4 @@
-"""Evaluate the saved model on the test set. Run:  python -m src.evaluate"""
+
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt

@@ -1,4 +1,4 @@
-"""Predict on a single image. Run:  python -m src.predict path/to/image.jpg"""
+
 import sys
 import numpy as np
 from PIL import Image

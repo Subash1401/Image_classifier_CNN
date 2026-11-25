@@ -53,9 +53,9 @@ streamlit run app.py            # web demo
 ```
 
 ## Results
-Fill in after training (typically ~85-90% test accuracy for this architecture):
-- Test accuracy: **XX.X%**
-- See `outputs/training_curves.png` and `outputs/confusion_matrix.png`
+
+- Test accuracy: **83.1%**
+
 
 ## Possible Improvements
 Transfer learning (MobileNetV2), learning-rate schedules, Grad-CAM

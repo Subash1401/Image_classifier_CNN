@@ -1,4 +1,4 @@
-"""Loads CIFAR-10 and splits it into train / validation / test sets."""
+
 import numpy as np
 from tensorflow.keras.datasets import cifar10
 

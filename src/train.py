@@ -1,4 +1,4 @@
-"""Train the CNN. Run from the project root:  python -m src.train"""
+
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt

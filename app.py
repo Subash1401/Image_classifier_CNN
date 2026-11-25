@@ -1,12 +1,12 @@
-"""Streamlit demo.  Run:  streamlit run app.py"""
+
 import streamlit as st
 from PIL import Image
 
 from src.config import MODEL_PATH
 from src.predict import predict_image
 
-st.set_page_config(page_title="CIFAR-10 CNN Classifier", page_icon="🖼️")
-st.title("🖼️ CIFAR-10 Image Classifier")
+st.set_page_config(page_title="SIMPLE CNN CLASSIFIER", page_icon="🖼️")
+st.title("🖼️ SIMPLE CNN CLASSIFIER")
 st.write("Upload an image of an airplane, car, bird, cat, deer, dog, frog, "
          "horse, ship or truck.")
 

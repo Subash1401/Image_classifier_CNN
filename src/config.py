@@ -1,4 +1,4 @@
-"""Central place for all settings, so nothing is hard-coded elsewhere."""
+
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
